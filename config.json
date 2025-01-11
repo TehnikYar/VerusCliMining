@@ -16,12 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RRGKk5KzV9fd7Jk6PTSZVvfNxrNzMe8ctu.SamsungA30-2",
+	"user": "RRGKk5KzV9fd7Jk6PTSZVvfNxrNzMe8ctu.Huawey5_2",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
-	"retry-pause": 5,
-	"api-allow": "192.168.0.0/16",
-	"api-bind": "0.0.0.0:4068"
-}
+	"retry-pause": 5
+	}
